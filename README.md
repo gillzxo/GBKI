@@ -320,7 +320,7 @@ export const headerData = {
 ```
 
 #### Data for each component is divided into respective files.
->#### Set website theme in [`src/data/themeData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/themeData.js) and choose your favourite font from [`src/App.css`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/App.css)
+>#### Set website theme in [`src/data/themeData.js`](https://github.com/gillzxo/GBKI/blob/master/src/data/themeData.js) and choose your favourite font from [`src/App.css`](https://github.com/gillzxo/GBKI/blob/master/src/App.css)
 
 > #### About You - [`src/data/aboutData.js`](https://github.com/gillzxo/GBKI/blob/master/src/data/aboutData.js)
 
