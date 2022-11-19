@@ -11,7 +11,7 @@ import pinkThemegirl from '../assets/svg/about/pinkTheme-girl.svg'
 import purpleThemeboy from '../assets/svg/about/purpleTheme-boy.svg'
 import purpleThemegirl from '../assets/svg/about/purpleTheme-girl.svg'
 import redThemeboy from '../assets/svg/about/redTheme-boy.png'
-import redThemegirl from '../assets/svg/about/redTheme-girl.svg'
+import redThemegirl from '../assets/svg/about/redTheme-boy.png'
 import yellowThemeboy from '../assets/svg/about/yellowTheme-boy.svg'
 import yellowThemegirl from '../assets/svg/about/yellowTheme-girl.svg'
 
