@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
+    email: '1stchoice.visa@gmail.com',
+    phone: '+919780590090',
+    address: ' Kot Kapura - Moga Rd, opposite bus stand, Bagha Purana, Punjab 142038 ',
 
     sheetAPI: ''
 }
