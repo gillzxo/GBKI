@@ -11,9 +11,9 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
+        name: 'PARMINDER SINGH VASSER',
+        title: 'Client',
+        text: "My self Inderjit singh I've applied for Open work permit visa from 1ST CHOICE and received my visa within 1 months. The team is very cooperative and dedicated. They guided my on each and every step.",
         image: boy2
     },
     {
@@ -32,9 +32,9 @@ export const testimonialsData = [
     },
     {
         id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
+        name: 'Jasdeep Singh',
+        title: 'STUDENT',
+        text: "My  experience  was excellent in this institution.   Tutors are very cooperative with all students and they clear each and every doubt.  I feel very happy  after studying here and I scored good marks.",
         image: boy1
     },
     {
